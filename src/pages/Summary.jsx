@@ -9,8 +9,7 @@ import G from '../assets/images/g.png';
 import L from '../assets/images/L.png';
 import K from '../assets/images/k.png';
 import R from '../assets/images/R.png';
-import CategoryDetail from "./CategoryDetail";
-import EmployeeDetail from "./EmployeeDetail";
+
 import check from '../assets/images/Check.png';
 const Summary = () => {
     const [selectedDate, setSelectedDate] = useState(() => {

@@ -1,4 +1,4 @@
-import G from "../assets/images/G.png";
+import G from "../assets/images/g.png";
 import { Link } from "react-router-dom";
 const EmployeeDetail = () => {
   return (
